@@ -6,7 +6,7 @@ body {
 .navbar {
   position: relative !important;
   z-index: 999;
-  height: 73px;
+  min-height: 73px;
   width: 100%;
   background-color: #fff;
   font-size: 14px;
